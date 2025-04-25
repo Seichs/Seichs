@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+##
+
 # 💫 About Me:
 I'm currently developing PinPoint, a project built with C# and C++. Alongside software development, I also work on web development projects.
 I'm studying Information Security at The Hague University of Applied Sciences, where I focus on combining security principles with practical, real-world applications. <br>
