@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently working on PinPoint its writen in C# and C++ i also do webdevelopment <br>I am an Information Security student at the hague university of applied sciences <br>
+I'm currently developing PinPoint, a project built with C# and C++. Alongside software development, I also work on web development projects.
+I'm studying Information Security at The Hague University of Applied Sciences, where I focus on combining security principles with practical, real-world applications. <br>
 
 
 ## 🌐 Socials:
