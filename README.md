@@ -17,4 +17,3 @@ I'm studying Information Security at The Hague University of Applied Sciences, w
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Seichs/Seichs/output/pacman-contribution-graph.svg">
 </picture>
 
-##
