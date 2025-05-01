@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-I’m, Dees Postema Founder & Creative Director of SharpByte Software — a Delft-based indie studio where we design, build and scale our own products. Right now we’re shipping PinPoint, a C#/C++ gaming overlay that lets players drop a fully-customisable crosshair on any game, and we have two mobile apps on the way (FoodFlow and ConnectUp). 
+I’m currently Founder & Creative Director of SharpByte Software — a Netherlands-based indie studio where we design, build and scale our own products. Right now we’re shipping PinPoint, a C#/C++ gaming overlay that lets players drop a fully-customisable crosshair on any game, and we have two mobile apps on the way (FoodFlow and ConnectUp). 
 
 Alongside running the company, I’m finishing a BSc in Information Security at The Hague University of Applied Sciences, and I bring those secure-by-design principles straight into our codebase and cloud ops. My daily toolkit spans C#, C++, React Native and full-stack web technologies, and my motivation is always the same: turn real-world pain points into elegant, secure software people love to use.
 
