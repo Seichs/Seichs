@@ -2,10 +2,14 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-# 💫 About Me:
-I’m currently Founder & Creative Director of SharpByte Software — a Netherlands-based indie studio where we design, build and scale our own products. Right now we’re shipping PinPoint, a C#/C++ gaming overlay that lets players drop a fully-customisable crosshair on any game, and we have two mobile apps on the way (FoodFlow and ConnectUp). 
+# About Me
+I’m the Founder & Creative Director of SharpByte Software, an indie studio based in the Netherlands where we design, build, and ship digital products — from secure web platforms to developer tools and gaming utilities. We currently deliver custom websites for clients while actively developing our own products.
 
-Alongside running the company, I’m finishing a BSc in Information Security at The Hague University of Applied Sciences, and I bring those secure-by-design principles straight into our codebase and cloud ops. My daily toolkit spans C#, C++, React Native and full-stack web technologies, and my motivation is always the same: turn real-world pain points into elegant, secure software people love to use.
+Ongoing projects include PinPoint, a C++/C# gaming overlay for customizable crosshairs, and NoLeak, our open-source Python tool that helps developers avoid exposing secrets like API keys or credentials in public codebases.
+
+While I work across a broad stack, Python is my main language — powering everything from backend systems to automation and security tooling. I’m also finishing a BSc in Information Security at The Hague University of Applied Sciences, and I bring those secure-by-design principles directly into our codebase and infrastructure. Whether it’s writing clean backend logic, deploying scalable services, or building intuitive user experiences, my goal is always the same: to turn real-world friction into secure, elegant, and useful software.
+
+
 
 
 
