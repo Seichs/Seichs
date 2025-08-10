@@ -3,11 +3,8 @@
 </div>
 
 # About Me
-I’m the Founder & Creative Director of SharpByte Software, an indie studio based in the Netherlands where we design, build, and ship digital products — from secure web platforms to developer tools and gaming utilities. We currently deliver custom websites for clients while actively developing our own products.
+I’m a student in Cybersecurity who enjoys building software in Python. I like creating tools, solving problems, and learning new ways to write clean, efficient, and secure code.
 
-Ongoing projects include PinPoint, a C++/C# gaming overlay for customizable crosshairs, and NoLeak, our open-source Python tool that helps developers avoid exposing secrets like API keys or credentials in public codebases.
-
-While I work across a broad stack, Python is my main language — powering everything from backend systems to automation and security tooling. I’m also finishing a BSc in Information Security at The Hague University of Applied Sciences, and I bring those secure-by-design principles directly into our codebase and infrastructure. Whether it’s writing clean backend logic, deploying scalable services, or building intuitive user experiences, my goal is always the same: to turn real-world friction into secure, elegant, and useful software.
 
 
 
