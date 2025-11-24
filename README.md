@@ -3,7 +3,40 @@
 </div>
 
 # About Me
-I’m a student in Cybersecurity who enjoys building software in Python. I like creating tools, solving problems, and learning new ways to write clean, efficient, and secure code.
+# Hey there! 👋
+
+I'm **Dees**, a self-taught developer and security enthusiast.
+
+I spend my free time coding, breaking things (legally 😄), and learning everything I can about **red teaming, exploits, and AI security**.  
+I love exploring how AI can both **defend** and **attack** systems — and how to use it responsibly in security research.
+
+If an idea pops into my head, chances are I’ll try to build it, break it, and then harden it.
+
+---
+
+### What I'm into
+
+- Red team techniques & attack chains  
+- Exploit development and lab environments  
+- **AI & machine learning**
+- **AI security and using AI to augment offensive/defensive security**
+- Automation scripts & tooling for security workflows  
+- CTFs, wargames, and write-ups  
+
+---
+
+### Projects
+
+I’m slowly turning my experiments into public repos – tools, PoCs, small AI/security experiments, and random scripts.  
+Check my pinned repos for the ones I’m most proud of.
+
+---
+
+### Fun Facts
+
+- I spend way too much money on computers and homelab equipment 💸  
+- I love capybaras — they’re just chilling like me 🐹  
+- I drink a *lot* of coffee 
 
 
 
